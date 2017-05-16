@@ -1,0 +1,42 @@
+  <article class="post post--list">
+    <header class="post__header">
+      <h2><a href="/2017/05/15/home/">Home</a></h2>
+      <span class="post__meta">
+        By MIRANDA KIBEL on
+        <time datetime="2017-05-15T04:09:00Z">May 15, 2017</time>
+      </span>
+    </header>
+
+    <div class="post__body">
+      
+      <a href="/2017/05/15/home/" class="button button--main">Read the rest...</a>
+    </div>
+  </article>
+  <article class="post post--list">
+    <header class="post__header">
+      <h2><a href="/2017/05/15/about/">About</a></h2>
+      <span class="post__meta">
+        By MIRANDA KIBEL on
+        <time datetime="2017-05-15T03:46:00Z">May 15, 2017</time>
+      </span>
+    </header>
+
+    <div class="post__body">
+      <p>This website is a portfolio of websites I’ve designed or redesigned. This portfolio contains three websites. Two of the websites included here are responsive websites made for clients: One of them, “Yoga for Everyone”, is a website for a yoga teacher...</p>
+      <a href="/2017/05/15/about/" class="button button--main">Read the rest...</a>
+    </div>
+  </article>
+
+  <nav class="pagination">
+    <div class="pagination__column pagination--inactive">
+        Older posts
+    </div>
+
+    <div class="pagination__column">
+      <a href="/archive">The Archive</a>
+    </div>
+
+    <div class="pagination__column">
+        <a href="/index.html%20(copy)">Newer posts</a>
+    </div>
+  </nav>

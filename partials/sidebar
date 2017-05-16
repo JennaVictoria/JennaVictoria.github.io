@@ -1,0 +1,59 @@
+<aside class="sidebar">
+    <div class="sidebar__module module">
+      <p>
+      <span class="module__list-prefix">👋</span>
+      Created using the static website generator <a href="https://middlemanapp.com/">Middleman</a>, and the theme 
+    <a href="https://github.com/elliotekj/middleman-silverback">Silverback</a>.
+      </p>
+    </div>
+
+    <div class="sidebar__module module">
+      <h3>Recently Posted</h3>
+
+      <ol>
+          <li>
+            <span class="module__list-prefix">✏️</span>
+            <a href="/2017/05/16/shakespeare-s-plays/">Shakespeare's Plays</a>
+          </li>
+          <li>
+            <span class="module__list-prefix">✏️</span>
+            <a href="/2017/05/16/elizabeth-orr-scriptwriter/">Elizabeth Orr - Scriptwriter</a>
+          </li>
+          <li>
+            <span class="module__list-prefix">✏️</span>
+            <a href="/2017/05/16/yoga-for-everyone/">Yoga for Everyone</a>
+          </li>
+          <li>
+            <span class="module__list-prefix">✏️</span>
+            <a href="/2017/05/16/links/">Links</a>
+          </li>
+          <li>
+            <span class="module__list-prefix">✏️</span>
+            <a href="/2017/05/16/contact-me/">Contact Me</a>
+          </li>
+          <li>
+            <span class="module__list-prefix">✏️</span>
+            <a href="/2017/05/16/resume/">Resume</a>
+          </li>
+          <li>
+            <span class="module__list-prefix">✏️</span>
+            <a href="/2017/05/15/home/">Home</a>
+          </li>
+          <li>
+            <span class="module__list-prefix">✏️</span>
+            <a href="/2017/05/15/about/">About</a>
+          </li>
+      </ol>
+    </div>
+
+    <div class="sidebar__module module">
+      <h3>Archives</h3>
+
+        <ol>
+            <li>
+              <span class="module__list-prefix">📂</span>
+              <a href="/2017/05/">May 2017</a>
+            </li>
+        </ol>
+    </div>
+</aside>

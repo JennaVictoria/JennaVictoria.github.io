@@ -1,0 +1,141 @@
+  <article class="post post--list">
+    <header class="post__header">
+      <h2><a href="/2017/05/16/shakespeare-s-plays/">Shakespeare's Plays</a></h2>
+      <span class="post__meta">
+        By MIRANDA KIBEL on
+        <time datetime="2017-05-16T08:27:00Z">May 16, 2017</time>
+      </span>
+    </header>
+
+    <div class="post__body">
+      <p>SHAKESPEARE&rsquo;S PLAYS: Created a mobile website featuring plays by Shakespeare.
+<p></p>
+<p></p>
+Tools Used: HTML, CSS, JQuery Mobile, JQuery Mobile Themeroller, JavaScript, JPG images.
+<p></p>
+<p></p>
+<a href="http://rascovmedia.com/Kibel/week-9/home.html">www.rascovmedia.com/Kibel/week-9/home.html</a>
+<br>
+<br>
+<img src="/articles/Selection_011-017f8238.png" alt="Home page with slideshow for &quot;Shakespeare's Plays&quot;." />
+<br>
+<img src="/articles/Selection_013-5e2cdb17.png" alt="Image and text in &quot;Hamlet&quot; page in &quot;Shakespeare's Plays&quot;." />
+<br>
+<img src="/articles/Selection_019-2c188c22.png" alt="Embedded YouTube video of &quot;Romeo and Juliet&quot; in &quot;Romeo and Juliet&quot; page in &quot;Shakespeare's Plays&quot;." /></p>
+
+      <a href="/2017/05/16/shakespeare-s-plays/" class="button button--main">Read the rest...</a>
+    </div>
+  </article>
+  <article class="post post--list">
+    <header class="post__header">
+      <h2><a href="/2017/05/16/elizabeth-orr-scriptwriter/">Elizabeth Orr - Scriptwriter</a></h2>
+      <span class="post__meta">
+        By MIRANDA KIBEL on
+        <time datetime="2017-05-16T07:28:00Z">May 16, 2017</time>
+      </span>
+    </header>
+
+    <div class="post__body">
+      <p>ELIZABETH ORR - SCRIPTWRITER: Redesigned a pre-existing WordPress website that was not responsive to produce a responsive WordPress website, edited the layout, and fixed a php error.
+</p><p></p>
+<p></p>
+Tools Used: WordPress themes, WordPress page editing, PHP file...
+      <a href="/2017/05/16/elizabeth-orr-scriptwriter/" class="button button--main">Read the rest...</a>
+    </div>
+  </article>
+  <article class="post post--list">
+    <header class="post__header">
+      <h2><a href="/2017/05/16/yoga-for-everyone/">Yoga for Everyone</a></h2>
+      <span class="post__meta">
+        By MIRANDA KIBEL on
+        <time datetime="2017-05-16T05:56:00Z">May 16, 2017</time>
+      </span>
+    </header>
+
+    <div class="post__body">
+      <p>YOGA FOR EVERYONE: Designed a WordPress website for a yoga class by selecting a wordpress theme, arranging text and pictures provided by the client, and creating a menu.
+<p></p>
+<p></p>
+Tools Used: WordPress, JPG images.
+<p></p>
+<p></p>
+<a href="http://www.yogalupe.com">www.yogalupe.com</a>
+<br>
+<br>
+<img src="/articles/Selection_007-4dbe4652.png" alt="Home page for yogalupe.com." />
+<br>
+<img src="/articles/Selection_008-a8b9ce25.png" alt="Instructor page for yogalupe.com." />
+<br>
+<img src="/articles/Selection_010-d6670e54.png" alt="Home page for yogalupe.com." /></p>
+
+      <a href="/2017/05/16/yoga-for-everyone/" class="button button--main">Read the rest...</a>
+    </div>
+  </article>
+  <article class="post post--list">
+    <header class="post__header">
+      <h2><a href="/2017/05/16/links/">Links</a></h2>
+      <span class="post__meta">
+        By MIRANDA KIBEL on
+        <time datetime="2017-05-16T05:38:00Z">May 16, 2017</time>
+      </span>
+    </header>
+
+    <div class="post__body">
+      <p><a href="https://www.facebook.com/mirandalynnekibel/">Fine me on Facebook</a><br>
+<a href="https://plus.google.com/111539725320447856604">Find me on Google Plus</a><br>
+<a href="https://www.instagram.com/mirandakibel/?r=sun1">Find me on Instagram</a><br>
+<a href="https://www.linkedin.com/company/miranda-kibel/">Find me on LinkedIn</a><br></p>
+
+      <a href="/2017/05/16/links/" class="button button--main">Read the rest...</a>
+    </div>
+  </article>
+  <article class="post post--list">
+    <header class="post__header">
+      <h2><a href="/2017/05/16/contact-me/">Contact Me</a></h2>
+      <span class="post__meta">
+        By MIRANDA KIBEL on
+        <time datetime="2017-05-16T05:21:00Z">May 16, 2017</time>
+      </span>
+    </header>
+
+    <div class="post__body">
+      <p>If you need a website created for you, or redesigned, you can call me at:</p>
+
+<p>(408) 429-5964</p>
+
+<p>Or email me at:</p>
+
+<p>miranda.kibel@gmail.com</p>
+
+      <a href="/2017/05/16/contact-me/" class="button button--main">Read the rest...</a>
+    </div>
+  </article>
+  <article class="post post--list">
+    <header class="post__header">
+      <h2><a href="/2017/05/16/resume/">Resume</a></h2>
+      <span class="post__meta">
+        By MIRANDA KIBEL on
+        <time datetime="2017-05-16T04:59:00Z">May 16, 2017</time>
+      </span>
+    </header>
+
+    <div class="post__body">
+      <p><a href="http://mirandakibel.com/resume3.pdf">My Resume</a></p>
+
+      <a href="/2017/05/16/resume/" class="button button--main">Read the rest...</a>
+    </div>
+  </article>
+
+  <nav class="pagination">
+    <div class="pagination__column">
+        <a href="/index/page/2.html%20(copy)">Older posts</a>
+    </div>
+
+    <div class="pagination__column">
+      <a href="/archive">The Archive</a>
+    </div>
+
+    <div class="pagination__column pagination--inactive">
+        Newer posts
+    </div>
+  </nav>

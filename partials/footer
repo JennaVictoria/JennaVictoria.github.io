@@ -1,0 +1,9 @@
+<footer class="site-footer">
+  <div class="site-footer__column">
+    &copy; Miranda Kibel 2017
+  </div>
+
+  <div class="site-footer__column">
+    Powered by Middleman and the <a href="https://github.com/elliotekj/middleman-silverback">Silverback</a> theme.
+  </div>
+</footer>

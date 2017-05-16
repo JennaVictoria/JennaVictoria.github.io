@@ -1,0 +1,23 @@
+<header class="site-header">
+  <div class="wrapper">
+    <div class="site-header__avatar">
+<a href="/">        <img src="/images/logo.svg" />
+</a>    </div>
+
+    <div class="site-header__copy">
+      <h1><a href="/">My Portfolio of Websites</a></h1>
+
+        <p>By Miranda Kibel</p>
+    </div>
+  </div>
+  <ul class="navul">
+    <li class="navli"><a href="http://localhost:4567/">Home</a></li>
+    <li class="navli"><a href="http://localhost:4567/2017/05/15/about/">About</a></li>
+    <li class="navli"><a href="http://localhost:4567/2017/05/16/contact-me/">Contact Me</a></li>
+    <li class="navli"><a href="http://localhost:4567/2017/05/16/resume/">Resume</a></li>
+    <li class="navli"><a href="http://localhost:4567/2017/05/16/links/">Links</a></li>
+    <li class="navli"><a href="http://localhost:4567/2017/05/16/yoga-for-everyone/">Yoga for Everyone</a></li>
+    <li class="navli"><a href="http://localhost:4567/2017/05/16/elizabeth-orr-scriptwriter/">Elizabeth Orr: Scriptwriter</a></li>
+    <li class="navli"><a href="#">Shakespeare's Plays</a></li>
+  </ul>
+</header>

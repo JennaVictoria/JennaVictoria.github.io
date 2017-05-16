@@ -1,0 +1,9 @@
+# Author
+
+Name: Miranda Kibel
+
+# Theme
+
+Designer: Elliot Jackson
+Site: elliotekj.com
+Theme URL: github.com/elliotekj/middleman-silverback
