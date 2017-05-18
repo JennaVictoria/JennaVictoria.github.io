@@ -11,7 +11,7 @@
     </div>
   </div>
   <div class="navbar" style="width: 100%;">
-  <ul class="navul">
+  <ul class="navul" style="width: 100%;">
     <li class="navli"><a href="http://mirandakibel.com/">Home</a></li>
     <li class="navli"><a href="http://mirandakibel.com/2017/05/15/about/">About</a></li>
     <li class="navli"><a href="http://mirandakibel.com/2017/05/16/contact-me/">Contact Me</a></li>
