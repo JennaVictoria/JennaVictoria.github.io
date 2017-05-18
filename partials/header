@@ -10,8 +10,7 @@
         <p>By Miranda Kibel</p>
     </div>
   </div>
-  <div class="navbar" style="width: 100%;">
-  <ul class="navul" style="width: 100%;">
+  <ul class="navul">
     <li class="navli"><a href="http://mirandakibel.com/">Home</a></li>
     <li class="navli"><a href="http://mirandakibel.com/2017/05/15/about/">About</a></li>
     <li class="navli"><a href="http://mirandakibel.com/2017/05/16/contact-me/">Contact Me</a></li>
@@ -21,5 +20,4 @@
     <li class="navli"><a href="http://mirandakibel.com/2017/05/16/elizabeth-orr-scriptwriter/">Elizabeth Orr - Scriptwriter</a></li>
     <li class="navli"><a href="http://mirandakibel.com/2017/05/16/shakespeare-s-plays/">Shakespeare's Plays</a></li>
   </ul>
-</div>
 </header>
