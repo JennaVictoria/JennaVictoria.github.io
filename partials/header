@@ -10,7 +10,7 @@
         <p>By Miranda Kibel</p>
     </div>
   </div>
-  <div class="navbar">
+  <div class="navbar" style="width: 100%;">
   <ul class="navul">
     <li class="navli"><a href="http://mirandakibel.com/">Home</a></li>
     <li class="navli"><a href="http://mirandakibel.com/2017/05/15/about/">About</a></li>
