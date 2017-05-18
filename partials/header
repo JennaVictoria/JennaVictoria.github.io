@@ -1,4 +1,4 @@
-<header class="site-header">
+<header>
   <div class="wrapper">
     <div class="site-header__avatar">
 <a href="/">        <img src="/images/logo.svg" />
