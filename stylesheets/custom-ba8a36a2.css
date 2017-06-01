@@ -1,6 +1,6 @@
 header{position:relative}
-.navul{list-style-type:none;margin:0;padding:0;overflow:hidden;position:absolute;bottom:0;background-color:#333;}
-.navli{float:left;display:inline;width:23%;}
-.navli a{display:inline;color:white;padding:14px 0;text-decoration:none;width:23%;}
+.navul{list-style-type:none;margin:0;padding:0;overflow:hidden;position:absolute;bottom:0;}
+.navli{float:left;display:inline;}
+.navli a{display:inline;color:white;padding:14px 20.87px;text-decoration:none;}
 .navli a:hover{background-color:#111}
 
